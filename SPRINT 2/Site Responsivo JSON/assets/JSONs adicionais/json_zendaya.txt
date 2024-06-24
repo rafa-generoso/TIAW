@@ -1,0 +1,39 @@
+{
+    "Ator": {
+        "nome": "Zendaya",
+        "foto": "assets/img/zendaya.jpg",
+        "nascimento": "01/09/1996 (27 anos)",
+        "nacionalidade": "<br>Norte-Americana",
+        "cidade": "Oakland, CA, EUA",
+        "atividade": "2009 - Presente",
+        "biografia": "Zendaya Maree Stoermer Coleman (Oakland, 1 de setembro de 1996),[4] conhecida apenas como Zendaya, é uma atriz, cantora e compositora norte-americana. Em 2022, a revista Time a nomeou como uma das 100 pessoas mais influentes do mundo.<br><br> Seus papéis mais notórios na televisão estão Rocky Blue em Shake It Up (2010-2013), KC Cooper em KC Undercover (2014-2018) e Rue Bennett em Euphoria (2019 – presente). Por sua atuação em Euphoria, ela ganhou dois Prêmios Emmy na categoria de melhor atriz em série dramática nos anos de 2020 e 2022. No cinema, Zendaya ganhou destaque interpretando Michelle MJ Jones nos filmes do super-herói Homem-Aranha no Universo Cinematográfico Marvel (MCU), Anne Wheeler no filme musical The Greatest Showman (2017) e Chani nos filmes distópicos Duna (2021) e Dune: Part Two (2024).",
+        "filmes": [
+            {
+                "titulo": "Homem-Aranha: Sem Volta Para Casa",
+                "poster": "assets/img/nowayhome.jpg",
+                "urlFilme": "https://letterboxd.com/film/spider-man-no-way-home/"
+            },
+            {
+                "titulo": "Duna",
+                "poster": "assets/img/duna.jpg",
+                "urlFilme": "https://letterboxd.com/film/dune-2021/"
+            },
+            {
+                "titulo": "Rivais",
+                "poster": "assets/img/rivais.jpg",
+                "urlFilme": "https://letterboxd.com/film/challengers/"
+            },
+            {
+                "titulo": "O Rei do Show",
+                "poster": "assets/img/oreidoshow.jpg",
+                "urlFilme": "https://letterboxd.com/film/the-greatest-showman/"
+            }
+        ],
+        "redessociais": 
+            {
+                "instagram": "https://www.instagram.com/zendaya/",
+                "twitter": "https://twitter.com/Zendaya",
+                "facebook": "https://www.facebook.com/Zendaya"
+            }
+    }
+}

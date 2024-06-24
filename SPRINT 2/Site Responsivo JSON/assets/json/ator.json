@@ -1,0 +1,40 @@
+{
+    "Ator": {
+        "nome": "Dylan O'Brien",
+        "foto": "assets/img/dylan_obrien.png",
+        "nascimento": "26/08/1991 (32 anos)",
+        "nacionalidade": "Norte-Americano",
+        "cidade": "Nova York, NY, EUA",
+        "atividade": "2011 - Presente",
+        "biografia": "Dylan Rhodes O'Brien (Nova Iorque, 26 de agosto de 1991) é um ator e músico norte-americano. Ele ficou conhecido por interpretar Stiles Stilinski na série de televisão da MTV americana Teen Wolf. No cinema, é conhecido por atuar em filmes como A Primeira Vez, Os Estagiários e Horizonte Profundo e como o protagonista principal Thomas da adaptação da série distópica de ficção-científica Maze Runner.<br><br> Também conhecido por seu papel em American Assassin, onde interpreta Mitch Rapp. Em novembro de 2021 coestrelou juntamente com Sadie Sink o curta-metragem All Too Well: The Short Film, da cantora Taylor Swift. É o responsável por dar a voz ao famoso Bumblebee, cujo filme é intitulado pelo mesmo nome.",
+        "filmes": [
+            {
+                "titulo": "Maze Runner: Correr ou Morrer 1",
+                "poster": "assets/img/maze_runner.jpg",
+                "urlFilme": "https://letterboxd.com/film/the-maze-runner/"
+            },
+            {
+                "titulo": "Maze Runner: Prova de Fogo",
+                "poster": "assets/img/maze_runner2.jpg",
+                "urlFilme": "https://letterboxd.com/film/maze-runner-the-scorch-trials/"
+            },
+            {
+                "titulo": "Maze Runner: A Cura Mortal",
+                "poster": "assets/img/maze_runner3.jpg",
+                "urlFilme": "https://letterboxd.com/film/maze-runner-the-death-cure/"
+            },
+            {
+                "titulo": "Love and Monsters",
+                "poster": "assets/img/love_and_monsters.jpg",
+                "urlFilme": "https://letterboxd.com/film/love-and-monsters/"
+            }
+        ],
+        "redessociais": 
+            {
+                "instagram": "https://dylanobrien.org/",
+                "twitter": "https://dylanobrien.org/",
+                "facebook": "https://dylanobrien.org/"
+            }
+        
+    }
+}

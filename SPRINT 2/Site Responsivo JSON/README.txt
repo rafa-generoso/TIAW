@@ -1,0 +1,1 @@
+A parte <main> do site é gerada a partir do JSON fornecido, então estou deixando uma pasta com 3 JSONs adicionais, para ver as páginas de diferentes atores basta copiar o conteúdo dos JSONs dos outros atores e colar no JSON principal 'ator.json'.

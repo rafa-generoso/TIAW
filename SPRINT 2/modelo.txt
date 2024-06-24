@@ -1,0 +1,40 @@
+{
+    "Ator": {
+        "nome": "NOME",
+        "foto": "img/ator.png",
+        "nascimento": "dd/mm/aaaa (xx anos)",
+        "nacionalidade": "NACIONALIDADE",
+        "cidade": "cidade, estado, país",
+        "atividade": "ano - Presente",
+        "biografia": "texto",
+        "filmes": [
+            {
+                "titulo": "FILME1",
+                "poster": "img/filme1.jpg",
+                "urlFilme": "https://letterboxd.com/film/filme1/"
+            },
+            {
+                "titulo": "FILME2",
+                "poster": "img/filme2.jpg",
+                "urlFilme": "https://letterboxd.com/film/filme2/"
+            },
+            {
+                "titulo": "FILME3",
+                "poster": "img/filme3.jpg",
+                "urlFilme": "https://letterboxd.com/film/filme3/"
+            },
+            {
+                "titulo": "FILME4",
+                "poster": "img/filme4.jpg",
+                "urlFilme": "https://letterboxd.com/film/filme4/"
+            }
+        ],
+        "redessociais": [
+            {
+                "instagram": "instagram.com",
+                "twitter": "twitter.com",
+                "facebook": "facebook.com"
+            }
+        ]
+    }
+}
