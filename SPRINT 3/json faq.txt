@@ -1,0 +1,20 @@
+{
+  "faq": [
+    {
+      "pergunta": "O que é o FilmFlock?",
+      "resposta": "O site FilmFlock é uma plataforma que foi feita para recomendar filmes para seus usuários com base em seu perfil."
+    },
+    {
+      "pergunta": "Por que o nome é FilmFlock?",
+      "resposta": "Film vêm de filmes e Flock significa rebanho em ingês, logo, o site é um acervo de filmes."
+    },
+    {
+      "pergunta": "As informações dos atores são confiáveis?",
+      "resposta": "Sim, todas as informações, tanto dos atores, quanto dos filmes e dos diretores são confiáveis."
+    },
+    {
+      "pergunta": "É possível assistir filmes através do site?",
+      "resposta": "Não, no nosso site você não consegue assistir os filmes, apenas avaliá-los."
+    }
+  ]
+}
